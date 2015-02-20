@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Javier Cejudo",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "javier@javiercejudo.com",
+    "phone": "+61 432 429 789",
+    "website": "http://www.javiercejudo.com",
+    "summary": "I'm a young software engineer wishing to continue my career as a web developer where skills in database systems, data processing and mathematical training can be used, with special interest in frontend development and management systems (e.g. e-commerce, finance).",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "NSW"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "javiercejudo",
+        "url": "https://github.com/javiercejudo"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "javiercejudo",
+        "url": "http://au.linkedin.com/in/javiercejudo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Skiddoo",
+      "position": "Software Engineer",
+      "website": "http://www.skiddoo.com.au",
+      "startDate": "2014-10-01",
+      "summary": "Skiddoo has the largest selection of the lowest airfares anywhere.",
+      "highlights": [
+        "Currently implementing the frontend for a built-from-scratch responsive site."
+      ]
+    },
+    {
+      "company": "Zanui",
+      "position": "Software Engineer",
+      "website": "http://www.zanui.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-10-01",
+      "summary": "Zanui is an online destination for furniture and homewares. They provide consumers with stylish new products for home, inspiration and ideas for home decoration.",
+      "highlights": [
+        "Participated in the front end and back end development of their online site including a built from scratch mobile version using AngularJS and Symfony 2.",
+        "Developed their order tracking page which has consistently been in the top 10 visited pages of the site."
+      ]
+    },
+    {
+      "company": "JIG Internet Consulting S.L.",
+      "position": "Software Engineer",
+      "website": "http://www.jig.es",
+      "startDate": "2012-04-01",
+      "endDate": "2012-10-01",
+      "summary": "JIG Advance Solutions is a multidisciplinary company focusing on e-commerce and mobile applications.",
+      "highlights": [
+        "Participated in a number of projects working on front end (including rich animations) and back end development.",
+        "Created a custom SOAP client in PHP to generate dynamic cacheable listings on demand."
+      ]
+    },
+    {
+      "company": "Ingeniería e Innovación S.L.",
+      "position": "Developer & Innovation Consultant",
+      "website": "http://www.ingenieriaeinnovacion.com/index.php?idioma=en",
+      "startDate": "2010-05-01",
+      "endDate": "2012-03-01",
+      "summary": "Ingeniería e Innovación provides integrated and coordinated management of regional, national and European innovation and R&D projects.",
+      "highlights": [
+        "Developed a human resource management tool for R&D projects in PHP and MySQL that managed information of more than 50 client companies and saved the company up to 10 hours per project."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of La Rioja",
+      "area": "Technical Engineer in Administrative Data Processing",
+      "studyType": "Bachelor",
+      "startDate": "2006-09-01",
+      "endDate": "2011-06-01"
+    },
+    {
+      "institution": "University of Technology Sydney",
+      "area": "Maths and Computer Science",
+      "studyType": "Exchange Undergraduate",
+      "startDate": "2009-02-01",
+      "endDate": "2009-11-01"
+    },
+    {
+      "institution": "University of La Rioja",
+      "area": "Degree in Mathematics (Withdrawn in good stanging.)",
+      "studyType": "Bachelor",
+      "startDate": "2006-09-01",
+      "endDate": "2009-06-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "International Baccalaureate Diploma",
+      "date": "2006-05-01",
+      "awarder": " International Baccalaureate",
+      "summary": "The IB is a two-year educational programme primarily aimed at students aged 16–19. The program is one that provides an internationally accepted qualification for entry into higher education, and is accepted by many universities worldwide."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "MySQL",
+        "Grunt/Gulp",
+        "NPM/Bower"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ]
+}
