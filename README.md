@@ -1,3 +1,3 @@
 # My resume / CV
 
-The JSON follows the the [JSON Resume schema](https://jsonresume.org/schema/).
+The JSON follows the [JSON Resume schema](https://jsonresume.org/schema/).

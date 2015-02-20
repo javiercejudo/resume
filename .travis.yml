@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - 'iojs'
+  - '0.10'
+  - '0.12'
+before_script:
+  - npm install -g resume-cli
+script:
+  - resume test
