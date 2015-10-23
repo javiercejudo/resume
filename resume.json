@@ -116,7 +116,7 @@
         "PHP",
         "MySQL",
         "Grunt/Gulp",
-        "NPM/Bower"
+        "npm/Bower"
       ]
     }
   ],
