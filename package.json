@@ -1,0 +1,29 @@
+{
+  "name": "javier",
+  "version": "0.0.0",
+  "description": "Resume of Javier Cejudo",
+  "main": "resume.json",
+  "scripts": {
+    "build": "resume export index.html -f .html",
+    "test": "resume test",
+    "version": "npm run build && git add -A index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javiercejudo/resume"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "javier cejudo"
+  ],
+  "author": "Javier Cejudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiercejudo/resume/issues"
+  },
+  "homepage": "https://github.com/javiercejudo/resume",
+  "devDependencies": {
+    "resume-cli": "^0.4.8"
+  }
+}
